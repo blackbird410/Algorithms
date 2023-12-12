@@ -35,7 +35,7 @@ int main()
 	if (gcd)
 		printf("GCD of %d and %d: %d\n", m, n, gcd);
 	else
-		printf("They have no GCM.\n");
+		printf("They have no GCD.\n");
 
 	return 0;
 }
